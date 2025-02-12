@@ -7,7 +7,8 @@ Windows can be downloaded from the following links
 1. Windows 10
     - [Official Download - Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
   
-      Text Here
+      You will need to be running windows 10 or newer to run the installer.
+      To bypass this and download the .iso file
     - [Unofficial Download - Windows 10](https://os.click/en/Windows:Windows_10)
   
       Text Here
@@ -24,3 +25,6 @@ Windows can be downloaded from the following links
     - [Tiny Download - Tiny11](https://archive.org/details/tiny-11-NTDEV)
   
       Text Here
+
+---
+
