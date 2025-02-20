@@ -2,8 +2,9 @@
 This repository helps the user easily install and configure windows.
 
 ---
+
 ## Installing Windows
-Windows iso files can be downloaded from the following links
+Windows ISO files can be downloaded from the following links
 1. Windows 10
     - [Official Download - Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
   
@@ -11,7 +12,7 @@ Windows iso files can be downloaded from the following links
       To bypass this and download the .iso file **without using the Media Creation Tool**, follow these steps:
       
       1. **Open a Chromium-Based Browser**:
-         - Use a browser like Google Chrome or Microsoft Edge.
+         - Both Google Chrome and Microsoft Edge work. Firefox is not chromium-based the same.
       
       2. **Change the Browser’s User Agent**:
          - Open the Developer Tools by pressing `F12` or `Ctrl + Shift + I`.
@@ -32,7 +33,7 @@ Windows iso files can be downloaded from the following links
          - Choose either the 32-bit or 64-bit version, and click "Download".
       
       7. **Save the ISO File**:
-         - Save the ISO to your desired location for later use (e.g., for creating a bootable USB or installing directly).
+         - Save the ISO to your desired location for later use (e.g., for creating a bootable USB or installing directly).'
       
     - [Unofficial Download - Windows 10](https://os.click/en/Windows:Windows_10)
   
@@ -41,7 +42,7 @@ Windows iso files can be downloaded from the following links
   
       Tiny10 is a lighter, optimized version of Windows 10, ideal for low-resource systems and users looking for a minimal setup.
 
-2. Windows 11
+1. Windows 11
     - [Official Download - Windows 11](https://www.microsoft.com/en-gb/software-download/windows11)
   
       To download the official Windows 11 ISO, ensure that your system meets the minimum hardware requirements, such as TPM 2.0 and secure boot.
@@ -51,5 +52,15 @@ Windows iso files can be downloaded from the following links
     - [Tiny Download - Tiny11](https://archive.org/details/tiny-11-NTDEV)
   
       Tiny11 is a lightweight version of Windows 11 designed to run on low-end hardware while maintaining essential features.
+
+---
+
+## Chris Titus Tech's Windows Utility
+CTT's Windows Utility can be used to easily configure windows and install apps.
+The official link to the GitHub can be found [here]([https://github.com/ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)).
+
+The command to launch the stable branch of this utility can be easily copied below:
+
+    irm "https://christitus.com/win" | iex
 
 ---
