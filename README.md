@@ -55,6 +55,9 @@ Windows ISO files can be downloaded from the following links
 
 ---
 
+# Installing Apps
+Multiple tools can be used to simplify the app installation processes.
+
 ## Chris Titus Tech's Windows Utility
 CTT's Windows Utility can be used to easily configure windows and install apps.
 The official link to the GitHub can be found [here]([https://github.com/ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)).
@@ -63,4 +66,7 @@ The command to launch the stable branch of this utility can be easily copied bel
 
     irm "https://christitus.com/win" | iex
 
+## 
+
 ---
+
