@@ -66,7 +66,18 @@ The command to launch the stable branch of this utility can be easily copied bel
 
     irm "https://christitus.com/win" | iex
 
-## 
+## Official App Downloads
 
----
-
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+* [Chrome](https://www.google.com/chrome/index.html)
+* [Steam](https://store.steampowered.com/about/)
+* [Spotify](https://www.spotify.com/us/download/)
+* [Discord](https://discord.com/download)
+* [.NET Framework](https://dotnet.microsoft.com/en-us/download)
+* [VS Code](https://code.visualstudio.com/Download)
+* [7zip](https://www.7-zip.org/download.html)
+* [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)
+* [OBS Studio](https://obsproject.com/download)
+* [TOR Browser](https://www.torproject.org/download/)
+* [balenaEtcher](https://etcher.balena.io/)
+* [Prism Launcher](https://prismlauncher.org/download/)
