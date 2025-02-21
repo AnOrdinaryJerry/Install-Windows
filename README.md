@@ -29,18 +29,15 @@ Windows ISO files can be downloaded from the following links
       5. **Select the Windows 10 Version**:
          - Choose the edition and language of Windows 10 you want to download.
       
-      6. **Download the ISO File**:
+      6. **Download and Save the ISO File**:
          - Choose either the 32-bit or 64-bit version, and click "Download".
-      
-      7. **Save the ISO File**:
-         - Save the ISO to your desired location for later use (e.g., for creating a bootable USB or installing directly).'
       
     - [Unofficial Download - Windows 10](https://os.click/en/Windows:Windows_10)
   
-      This download link provides an alternative way to obtain Windows 10 ISO files, though it may not be officially supported by Microsoft.
+      This link is an alternative way to obtain Windows 11 ISO files directly. This is not an official way to obtain Windows.
     - [Tiny Download - Tiny10](https://archive.org/details/tiny-10-23-h2)
   
-      Tiny10 is a lighter, optimized version of Windows 10, ideal for low-resource systems and users looking for a minimal setup.
+      Tiny10 is a much lighter version of Windows 10. This is not an official way to obtain Windows.
 
 1. Windows 11
     - [Official Download - Windows 11](https://www.microsoft.com/en-gb/software-download/windows11)
@@ -48,10 +45,10 @@ Windows ISO files can be downloaded from the following links
       To download the official Windows 11 ISO, ensure that your system meets the minimum hardware requirements, such as TPM 2.0 and secure boot.
     - [Unofficial Download - Windows 11](https://os.click/en/Windows:Windows_11)
   
-      This link provides an unofficial Windows 11 ISO, offering the same OS with alternative distribution methods.
+      This link is an alternative way to obtain Windows 11 ISO files directly. This is not an official way to obtain Windows.
     - [Tiny Download - Tiny11](https://archive.org/details/tiny-11-NTDEV)
   
-      Tiny11 is a lightweight version of Windows 11 designed to run on low-end hardware while maintaining essential features.
+      Tiny11 is a much lighter version of Windows 11. The "No Sysreq" version will bypass system requirements, allowing you to install windows 11 on much older devices. This is not an official way to obtain Windows.
 
 ---
 
