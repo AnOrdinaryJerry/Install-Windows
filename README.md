@@ -1,55 +1,64 @@
 # Install-Windows
 This repository helps the user easily install and configure windows.
 
+## Quick Links
+
+[Install Windows](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#installing-windows)
+
+[Installing Apps](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#installing-windows)
+- [CTT Utility](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#chris-titus-techs-windows-utility)
+- [Official App Downloads](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#official-app-downloads)
+- 
 ---
 
 ## Installing Windows
 Windows ISO files can be downloaded from the following links
-1. Windows 10
-    - [Official Download - Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
-  
-      You will need to be running Windows to run the Media Creation Tool.
-      To bypass this and download the .iso file **without using the Media Creation Tool**, follow these steps:
-      
-      1. **Open a Chromium-Based Browser**:
-         - Both Google Chrome and Microsoft Edge work.
-         - **FireFox** users can download the [Side View Addon](https://addons.mozilla.org/en-US/firefox/addon/side-view/) and access the site through there.
-      
-      2. **Change the Browser’s User Agent**:
-         - Open the Developer Tools by pressing `F12` or `Ctrl + Shift + I`.
-         - Click on the "Network" tab.
-         - Under the “User Agent” section, click the dropdown and select a mobile device (e.g., BlackBerry BB10).
-      
-      3. **Visit the Microsoft Website**:
-         - Go to the official Windows 10 download page:  
-           [https://www.microsoft.com/en-us/software-download/windows10](https://www.microsoft.com/en-us/software-download/windows10)
-      
-      4. **Refresh the Page**:
-         - After changing the user agent, refresh the page to load it as if you're accessing it from a mobile device.
-      
-      5. **Select the Windows 10 Version**:
-         - Choose the edition and language of Windows 10 you want to download.
-      
-      6. **Download and Save the ISO File**:
-         - Choose either the 32-bit or 64-bit version, and click "Download".
-      
-    - [Unofficial Download - Windows 10](https://os.click/en/Windows:Windows_10)
-  
-      This link is an alternative way to obtain Windows 11 ISO files directly. This is not an official way to obtain Windows.
-    - [Tiny Download - Tiny10](https://archive.org/details/tiny-10-23-h2)
-  
-      Tiny10 is a much lighter version of Windows 10. This is not an official way to obtain Windows.
 
-1. Windows 11
-    - [Official Download - Windows 11](https://www.microsoft.com/en-gb/software-download/windows11)
+## Windows 10
+- [Official Download - Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
+
+  You will need to be running Windows to run the Media Creation Tool.
+  To bypass this and download the .iso file **without using the Media Creation Tool**, follow these steps:
   
-      To download the official Windows 11 ISO, ensure that your system meets the minimum hardware requirements, such as TPM 2.0 and secure boot.
-    - [Unofficial Download - Windows 11](https://os.click/en/Windows:Windows_11)
+  1. **Open a Chromium-Based Browser**:
+     - Both Google Chrome and Microsoft Edge work.
+     - **FireFox** users can download the [Side View Addon](https://addons.mozilla.org/en-US/firefox/addon/side-view/) and access the site through there.
   
-      This link is an alternative way to obtain Windows 11 ISO files directly. This is not an official way to obtain Windows.
-    - [Tiny Download - Tiny11](https://archive.org/details/tiny-11-NTDEV)
+  2. **Change the Browser’s User Agent**:
+     - Open the Developer Tools by pressing `F12` or `Ctrl + Shift + I`.
+     - Click on the "Network" tab.
+     - Under the “User Agent” section, click the dropdown and select a mobile device (e.g., BlackBerry BB10).
   
-      Tiny11 is a much lighter version of Windows 11. The "No Sysreq" version will bypass system requirements, allowing you to install windows 11 on much older devices. This is not an official way to obtain Windows.
+  3. **Visit the Microsoft Website**:
+     - Go to the official Windows 10 download page:  
+       [https://www.microsoft.com/en-us/software-download/windows10](https://www.microsoft.com/en-us/software-download/windows10)
+  
+  4. **Refresh the Page**:
+     - After changing the user agent, refresh the page to load it as if you're accessing it from a mobile device.
+  
+  5. **Select the Windows 10 Version**:
+     - Choose the edition and language of Windows 10 you want to download.
+  
+  6. **Download and Save the ISO File**:
+     - Choose either the 32-bit or 64-bit version, and click "Download".
+  
+- [Unofficial Download - Windows 10](https://os.click/en/Windows:Windows_10)
+
+  This link is an alternative way to obtain Windows 11 ISO files directly. This is not an official way to obtain Windows.
+- [Tiny Download - Tiny10](https://archive.org/details/tiny-10-23-h2)
+
+  Tiny10 is a much lighter version of Windows 10. This is not an official way to obtain Windows.
+
+## Windows 11
+- [Official Download - Windows 11](https://www.microsoft.com/en-gb/software-download/windows11)
+
+  To download the official Windows 11 ISO, ensure that your system meets the minimum hardware requirements, such as TPM 2.0 and secure boot.
+- [Unofficial Download - Windows 11](https://os.click/en/Windows:Windows_11)
+
+  This link is an alternative way to obtain Windows 11 ISO files directly. This is not an official way to obtain Windows.
+- [Tiny Download - Tiny11](https://archive.org/details/tiny-11-NTDEV)
+
+  Tiny11 is a much lighter version of Windows 11. The "No Sysreq" version bypasses system requirements. This is not an official way to obtain Windows.
 
 ---
 
