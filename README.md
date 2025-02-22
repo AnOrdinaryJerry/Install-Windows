@@ -4,12 +4,12 @@ This repository helps users easily install and configure windows.
 ## Quick Links
 
 - [Install Windows](https://github.com/AnOrdinaryJerry/Install-Windows#installing-windows)
-  - [Windows 10](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#windows-10)
-  - [Windows 11](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#windows-11)
+  - [Windows 10](https://github.com/AnOrdinaryJerry/Install-Windows#windows-10)
+  - [Windows 11](https://github.com/AnOrdinaryJerry/Install-Windows#windows-11)
 
-- [Installing Apps](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#installing-apps)
-  - [CTT Utility](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#chris-titus-techs-windows-utility)
-  - [Official App Downloads](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#official-app-downloads)
+- [Installing Apps](https://github.com/AnOrdinaryJerry/Install-Windows#installing-apps)
+  - [CTT Utility](https://github.com/AnOrdinaryJerry/Install-Windows#chris-titus-techs-windows-utility)
+  - [Official App Downloads](https://github.com/AnOrdinaryJerry/Install-Windows#official-app-downloads)
 
 ---
 
