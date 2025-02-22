@@ -3,7 +3,7 @@ This repository helps users easily install and configure windows.
 
 ## Quick Links
 
-- [Install Windows](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#installing-windows)
+- [Install Windows](https://github.com/AnOrdinaryJerry/Install-Windows#installing-windows)
   - [Windows 10](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#windows-10)
   - [Windows 11](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#windows-11)
 
@@ -68,7 +68,7 @@ Multiple tools can be used to simplify the app installation processes.
 
 ## Chris Titus Tech's Windows Utility
 CTT's Windows Utility can be used to easily configure windows and install apps.
-The official link to the GitHub repository can be found [here]([https://github.com/ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)).
+The official link to the GitHub repository can be found [here](https://github.com/ChrisTitusTech/winutil).
 
 The command to launch the stable branch of this utility can be easily copied below:
 
