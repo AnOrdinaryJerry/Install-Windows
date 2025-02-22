@@ -4,14 +4,16 @@ This repository helps the user easily install and configure windows.
 ## Quick Links
 
 [Install Windows](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#installing-windows)
+- [Windows 10](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#windows-10)
+- [Windows 11](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#windows-11)
 
-[Installing Apps](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#installing-windows)
+[Installing Apps](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#installing-apps)
 - [CTT Utility](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#chris-titus-techs-windows-utility)
 - [Official App Downloads](https://github.com/AnOrdinaryJerry/Install-Windows/tree/main?tab=readme-ov-file#official-app-downloads)
-- 
+
 ---
 
-## Installing Windows
+# Installing Windows
 Windows ISO files can be downloaded from the following links
 
 ## Windows 10
@@ -19,15 +21,14 @@ Windows ISO files can be downloaded from the following links
 
   You will need to be running Windows to run the Media Creation Tool.
   To bypass this and download the .iso file **without using the Media Creation Tool**, follow these steps:
-  
   1. **Open a Chromium-Based Browser**:
-     - Both Google Chrome and Microsoft Edge work.
-     - **FireFox** users can download the [Side View Addon](https://addons.mozilla.org/en-US/firefox/addon/side-view/) and access the site through there.
+      - Both Google Chrome and Microsoft Edge work.
+      - **FireFox** users can download the [Side View Addon](https://addons.mozilla.org/en-US/firefox/addon/side-view/) and access the site through there.
   
   2. **Change the Browser’s User Agent**:
-     - Open the Developer Tools by pressing `F12` or `Ctrl + Shift + I`.
-     - Click on the "Network" tab.
-     - Under the “User Agent” section, click the dropdown and select a mobile device (e.g., BlackBerry BB10).
+      - Open the Developer Tools by pressing `F12` or `Ctrl + Shift + I`.
+      - Click on the "Network" tab.
+      - Under the “User Agent” section, click the dropdown and select a mobile device (e.g., BlackBerry BB10).
   
   3. **Visit the Microsoft Website**:
      - Go to the official Windows 10 download page:  
