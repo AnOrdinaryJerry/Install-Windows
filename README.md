@@ -8,11 +8,12 @@ Windows ISO files can be downloaded from the following links
 1. Windows 10
     - [Official Download - Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
   
-      You will need to be running Windows 10 or newer to run the installer.
+      You will need to be running Windows to run the Media Creation Tool.
       To bypass this and download the .iso file **without using the Media Creation Tool**, follow these steps:
       
       1. **Open a Chromium-Based Browser**:
-         - Both Google Chrome and Microsoft Edge work. Firefox is not chromium-based the same.
+         - Both Google Chrome and Microsoft Edge work.
+         - **FireFox** users can download the [Side View Addon](https://addons.mozilla.org/en-US/firefox/addon/side-view/) and access the site through there.
       
       2. **Change the Browser’s User Agent**:
          - Open the Developer Tools by pressing `F12` or `Ctrl + Shift + I`.
